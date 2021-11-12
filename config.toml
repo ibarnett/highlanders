@@ -1,0 +1,39 @@
+title = 'Highlanders'
+baseURL = 'http://www.highlandersbaseball.com'
+theme = 'ananke'
+languageCode = 'en-us'
+copyright = 'Ian Barnett'
+
+[params]
+  featured_image = '/images/slidehome.jpg'
+  custom_css = ["css/custom.css"]
+  site_logo = "/images/highlanders-logo.png"
+  author = ""
+  favicon = "/images/hb-tab.png"
+  description = ""
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+
+  [menu]
+[[menu.main]]
+  identifier = "playerbattingstats"
+  name = "Player Stats"
+  pre = "<i class='fa fa-heart'></i>"
+  url = "/player-stats/"
+  weight = -110
+[[menu.main]] 
+  identifier = "teamstats"
+  name = "Team Stats"
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = "/team-stats/"
+  weight = -110

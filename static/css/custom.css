@@ -1,0 +1,40 @@
+td,
+th {
+  padding: 10px;
+  font-family: avenir;
+}
+
+tr:nth-child(even) {
+  background-color: #ddd;
+}
+
+tr:hover {
+  background-color: #bbb;
+  color: #aa0000;
+}
+
+th {
+  background-color: #aa0000;
+  color: white;
+  position: sticky;
+}
+
+table {
+  border-spacing: 2px;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  table {
+    display: block;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+    margin: 0 auto;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+.homepage-padding {
+  padding: 0px;
+}

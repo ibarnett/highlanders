@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2021 Schedule on Highlanders</title>
+    <link>http://www.highlandersbaseball.com/</link>
+    <description>Recent content in Fall 2021 Schedule on Highlanders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ian Barnett</copyright>
+    <lastBuildDate>Wed, 03 Nov 2021 22:05:56 -0700</lastBuildDate><atom:link href="http://www.highlandersbaseball.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Player Batting Per Game</title>
+      <link>http://www.highlandersbaseball.com/player-stats/player-pergame-batting/</link>
+      <pubDate>Sun, 07 Nov 2021 21:03:25 -0700</pubDate>
+      
+      <guid>http://www.highlandersbaseball.com/player-stats/player-pergame-batting/</guid>
+      <description>Player 1    Date # PA AB R H 1B 2B 3B HR OB RBI BB SO OBP AVG     11/8/2021 1 2 2 2 2 0 1 1 0 2 2 0 0 1.000 1.000   11/5/2021 1 2 2 1 1 1 0 0 0 1 0 0 1 0.500 0.500   11/1/2021 1 2 2 1 1 0 0 1 0 1 1 0 0 0.</description>
+    </item>
+    
+    <item>
+      <title>Player Pitching</title>
+      <link>http://www.highlandersbaseball.com/player-stats/player-pitching/</link>
+      <pubDate>Sun, 07 Nov 2021 21:01:31 -0700</pubDate>
+      
+      <guid>http://www.highlandersbaseball.com/player-stats/player-pitching/</guid>
+      <description># G Ball Str PIT R ER ERA K Kc Ks H BB     3 1 14 5 19 3 0 0 1 0 1 0 3   2 3 16 39 55 2 1 1.93 3 2 1 4 0   8 7 148 129 277 19 9 8.1 25 9 16 5 24   7 4 95 79 174 18 9 17.</description>
+    </item>
+    
+    <item>
+      <title>Team Pitching</title>
+      <link>http://www.highlandersbaseball.com/team-stats/team-pitching/</link>
+      <pubDate>Sun, 07 Nov 2021 21:01:16 -0700</pubDate>
+      
+      <guid>http://www.highlandersbaseball.com/team-stats/team-pitching/</guid>
+      <description>   G Ball Str PIT R ER ERA K Kc Ks H BB     8 481 368 849 84 37 12.81 54 25 29 24 76    </description>
+    </item>
+    
+    <item>
+      <title>Team Batting</title>
+      <link>http://www.highlandersbaseball.com/team-stats/team-batting/</link>
+      <pubDate>Sun, 07 Nov 2021 20:55:33 -0700</pubDate>
+      
+      <guid>http://www.highlandersbaseball.com/team-stats/team-batting/</guid>
+      <description>   G PA AB R H 1B 2B 3B HR OB RBI BB SO OBP AVG     8 184 146 69 59 43 9 3 4 97 34 34 56 0.527 0.404    </description>
+    </item>
+    
+    <item>
+      <title>Player Batting</title>
+      <link>http://www.highlandersbaseball.com/player-stats/player-batting/</link>
+      <pubDate>Sun, 07 Nov 2021 20:53:52 -0700</pubDate>
+      
+      <guid>http://www.highlandersbaseball.com/player-stats/player-batting/</guid>
+      <description># G PA AB R H 1B 2B 3B HR OB RBI BB SO OBP AVG     1 8 17 17 11 11 5 2 3 1 11 6 0 3 0.647 0.647   8 8 20 17 12 11 7 1 0 3 14 12 3 3 0.700 0.647   3 8 17 15 7 9 9 0 0 0 11 2 2 2 0.</description>
+    </item>
+    
+  </channel>
+</rss>
